@@ -1,5 +1,7 @@
 # 💸 App de Finanças Fácil com Vibe Coding
 
+Este desafio foi criado como projeto da DIO para interação de Vibe Coding utilizando o Lovable
+
 PRD configurado utilizando o Copilot
 
 ````markdown
@@ -120,9 +122,17 @@ No README do seu repositório, inclua:
 Interação com o Lovable
 - Crie uma app de finanças pessoais baseado no seguinte PRD
 - quero salvar transções, adicionar contas de usuário e integrar IA real
-site para acesso: https://coin-talk-advisor.lovable.app/
 
-<img width="1920" height="1080" alt="Captura de tela 2025-12-09 140342" src="https://github.com/user-attachments/assets/6fa58f0f-1725-483a-9828-642592706211" />
+site para acesso do resultado no Lovable: https://coin-talk-advisor.lovable.app/
+
+
+<img width="1920" height="1080" alt="Captura de tela 2025-12-09 142359" src="https://github.com/user-attachments/assets/358edb72-fb79-4d5c-ab5d-07dfec6f75e6" />
+
+
+<img width="1920" height="1080" alt="Captura de tela 2025-12-09 140326" src="https://github.com/user-attachments/assets/0f5e60bd-3f37-489a-8f2d-9e7562118ad0" />
+
+<img width="1920" height="1080" alt="Captura de tela 2025-12-09 113253" src="https://github.com/user-attachments/assets/fdfe9413-7954-4508-9206-7c5bf6758165" />
+
 
 Resumo do App – Coin Talk Advisor
 O Coin Talk Advisor é um aplicativo de finanças pessoais que utiliza uma interface conversacional para ajudar o usuário a registrar receitas e despesas de forma simples e intuitiva. Em vez de formulários tradicionais, o app permite que o usuário interaja por meio de mensagens como “Gastei 50 no almoço” ou “Recebi 3000 de salário”.
