@@ -1,5 +1,49 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Finanças Fácil com Vibe Coding
 
+PRD configurado utilizando o Copilot
+
+````markdown
+
+# PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
+
+## 1. Contexto
+O aplicativo tem como objetivo simplificar o controle financeiro pessoal por meio de interações em linguagem natural.
+Em vez de formulários complexos ou planilhas, o usuário conversa com o app, que atua como um “Agente Financeiro” amigável e educativo.
+
+## 2. Problema
+- Os apps atuais exigem muita entrada manual e pouca personalização.
+- Isso gera frustração e abandono do hábito de registrar gastos.
+- A solução proposta é oferecer uma experiência conversacional, com recomendações automáticas e relatórios simples.
+
+## 3. Público-Alvo
+- Pessoas que desejam começar a organizar suas finanças sem complicação.
+- Principalmente iniciantes que não têm familiaridade com planilhas ou apps tradicionais.
+- Usuários que valorizam praticidade, linguagem acessível e suporte educativo.
+
+Nota importante: O aplicativo deve seguir os princípios de Design Universal, garantindo que pessoas com diferentes perfis, idades, níveis de experiência digital e possíveis limitações (visuais, motoras, cognitivas) possam usar o produto com boa experiência.
+
+## 4. Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural.
+2. Classificação automática das transações (alimentação, transporte, lazer etc.).
+3. Definição e acompanhamento de metas financeiras (ex.: economizar R$200/mês).
+4. Dicas de economia personalizadas fornecidas pelo “Agente Financeiro”.
+5. Relatórios simples e visuais (gráficos, resumos semanais/mensais).
+6. Acessibilidade integrada: interface clara, suporte a leitores de tela, contraste adequado e navegação intuitiva.
+
+## 5. Entregável da IA (MVP)
+- Principais telas:
+  - Tela de chat (interação com o agente).
+  - Tela de metas financeiras.
+  - Tela de relatórios e insights.
+- Recursos necessários:
+  - Processamento de linguagem natural (NLP).
+  - Motor de categorização automática de transações.
+  - Sistema de notificações e recomendações.
+  - Padrões de acessibilidade e usabilidade universal.
+- Validação inicial:
+  - Teste com grupo piloto de usuários iniciantes e diversos perfis.
+  - Coleta de feedback sobre facilidade de uso, clareza das recomendações e acessibilidade.
+  - Ajustes rápidos no fluxo de conversa e relatórios.
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
 ## ✨ O que é Vibe Coding
@@ -73,6 +117,32 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
+Interação com o Lovable
+- Crie uma app de finanças pessoais baseado no seguinte PRD
+- quero salvar transções, adicionar contas de usuário e integrar IA real
+site para acesso: https://coin-talk-advisor.lovable.app/
+
+<img width="1920" height="1080" alt="Captura de tela 2025-12-09 140342" src="https://github.com/user-attachments/assets/6fa58f0f-1725-483a-9828-642592706211" />
+
+Resumo do App – Coin Talk Advisor
+O Coin Talk Advisor é um aplicativo de finanças pessoais que utiliza uma interface conversacional para ajudar o usuário a registrar receitas e despesas de forma simples e intuitiva. Em vez de formulários tradicionais, o app permite que o usuário interaja por meio de mensagens como “Gastei 50 no almoço” ou “Recebi 3000 de salário”.
+Principais características observadas:
+- Dashboard de Relatórios: exibe saldo atual, receitas e gastos mensais.
+- Insights personalizados: oferece dicas e sugestões para incentivar o uso e melhorar o controle financeiro.
+- Interação via chat: promove uma experiência natural e acessível, ideal para iniciantes.
+- Design em português: voltado para o público brasileiro, com linguagem clara e amigável.
+
+- Reflexão
+
+O que funcionou bem?
+
+ter o primeiro contato com vibecoding e interagir com o Lovable
+
+O que não funcionou como o esperado?
+A qwuantidade de créditos para uso no Lovable
+
+O que aprendeu sobre conversar com IAs?
+Assim como com as outras, é como estar conversando com uma pessoa.
 - Seu **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
